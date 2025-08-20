@@ -20,14 +20,14 @@ Exploring new technologies and building small projects to improve my skills
 ---
 
 ## GitHub Stats
-![Christian's GitHub stats](https://github-readme-stats.vercel.app/api?username=ChristianOrzales&show_icons=true&theme=tokyonight)
+![Christian's GitHub stats](https://github-readme-stats.vercel.app/api?username=shanshan-3&show_icons=true&theme=tokyonight)
 
 ---
 
 ## Connect with Me
-- Facebook: [Christian Orzales](https://facebook.com/)  
-- LinkedIn: [Your LinkedIn](https://linkedin.com/)  
-- Email: your.email@example.com  
+- Facebook: [Christian Orzales](https://facebook.com/naitsirhc.selazro)  
+- LinkedIn: None
+- Email: christianorzales36@gmail.com  
 
 ---
 
