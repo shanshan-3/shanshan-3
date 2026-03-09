@@ -19,11 +19,3 @@ Bootstrap · phpMyAdmin
 [workwithoutlimits](https://github.com/shanshan-3/workwithoutlimits) — web-based system built with PHP
 
 [1--JAVA-PROJECT-OOP-](https://github.com/shanshan-3/1--JAVA-PROJECT-OOP-) — beginner OOP project in Java
-
----
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=shanshan-3&show_icons=true&theme=default&hide_border=true&count_private=true)
-
----
-
-still learning.
