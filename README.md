@@ -1,6 +1,6 @@
 # Christian Orzales
 
-Student developer based in the Philippines. Currently building small projects and learning the fundamentals — web systems, OOP, and whatever comes next.
+Student developer. Currently building small projects and learning the fundamentals — web systems, OOP, and whatever comes next.
 
 ---
 
