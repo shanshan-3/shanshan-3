@@ -18,10 +18,6 @@ Student developer focused on building small projects and learning programming fu
 
 **Exploring:** AI-assisted development
 
-## GitHub Stats
-
-![shanshan-3's GitHub stats](https://github-readme-stats.vercel.app/api?username=shanshan-3&show_icons=true&hide_border=false)
-
 ---
 
 *Always learning, one project at a time.*
