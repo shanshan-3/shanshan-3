@@ -1,21 +1,27 @@
 # Christian Orzales
 
-Student developer. Currently building small projects and learning the fundamentals
+Student developer focused on building small projects and learning programming fundamentals.
 
 ---
 
-**Languages**
+## About Me
 
-PHP · Java · C++ · HTML · CSS
+- Currently studying and practicing software development basics
+- Building small projects to apply what I learn
+- Interested in web development, object-oriented programming, and AI tools
 
-**Tools & Frameworks**
+## Tech Stack
 
-Bootstrap · phpMyAdmin
+**Languages:** PHP · Java · C++ · HTML · CSS
+
+**Tools:** Git · GitHub · VS Code · Bootstrap · phpMyAdmin
+
+**Exploring:** AI-assisted development
+
+## GitHub Stats
+
+![shanshan-3's GitHub stats](https://github-readme-stats.vercel.app/api?username=shanshan-3&show_icons=true&hide_border=false)
 
 ---
 
-**Projects**
-
-[workwithoutlimits](https://github.com/shanshan-3/workwithoutlimits) — jobposting system
-
-[1--JAVA-PROJECT-OOP-](https://github.com/shanshan-3/1--JAVA-PROJECT-OOP-) — beginner OOP project in Java
+*Always learning, one project at a time.*
